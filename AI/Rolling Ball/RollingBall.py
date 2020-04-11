@@ -1,5 +1,5 @@
 """
- Make with pygame and
+ Make with pygame and trained using NEAT (Neuroevolution of augmenting topologies)
 """
 import pygame
 import random
