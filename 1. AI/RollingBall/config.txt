@@ -7,7 +7,7 @@ reset_on_extinction   = False
 
 [DefaultGenome]
 # node activation options
-activation_default      = sigmoid
+activation_default      = tanh
 activation_mutate_rate  = 0.0
 activation_options      = tanh
 
